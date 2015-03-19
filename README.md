@@ -6,3 +6,5 @@
 Compiler avec VS 2010 Pro (pour VC\atlmfc)
 
 Ne pas utiliser CEF_ENABLE_SANDBOX si pas même version de VS
+
+- [ChromiumFX](https://bitbucket.org/wborgsm/chromiumfx/)
