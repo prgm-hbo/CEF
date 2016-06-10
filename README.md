@@ -1,12 +1,15 @@
-# cef
-- [Chromium Embedded Framework (CEF)](https://bitbucket.org/chromiumembedded/cef/)
-- [Chromium Embedded Framework (CEF) Downloads](http://www.magpcss.net/cef_downloads/)
-- [Chromium Embedded Framework 3 Builds](https://cefbuilds.com/)
+# CEF
+Chromium Embedded Framework
 
-Compiler avec VS 2010 Pro (pour VC\atlmfc)
+- [CEF sur bitbucket](https://bitbucket.org/chromiumembedded/cef)
+- [CEF builds downloads](http://opensource.spotify.com/cefbuilds/index.html) et https://cefbuilds.com/
+- [Wiki](https://bitbucket.org/chromiumembedded/cef/wiki/Home), [tutorial](https://bitbucket.org/chromiumembedded/cef/wiki/Tutorial)
+- [CEF sur wikipedia](http://en.wikipedia.org/wiki/Chromium_Embedded_Framework)
 
-Ne pas utiliser CEF_ENABLE_SANDBOX si pas même version de VS
+C# wrapper
+- [ChromiumFX](https://bitbucket.org/chromiumfx/chromiumfx)
 
-- [Chromium Embedded Framework](http://en.wikipedia.org/wiki/Chromium_Embedded_Framework)
+Compiler avec VS 2010 Pro (Pro pour VC\atlmfc) ou 2013 community
 
-- [ChromiumFX](https://bitbucket.org/wborgsm/chromiumfx/)
+Ne pas utiliser CEF_ENABLE_SANDBOX (pas même version de VS)
+
